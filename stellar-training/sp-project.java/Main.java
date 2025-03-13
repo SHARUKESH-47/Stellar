@@ -57,7 +57,7 @@ public class Main {
         System.out.print("Enter Password: ");
         int password = sc.nextInt();
 
-        if (userId.equals("t4teq") && password == 123) {
+        if (userId.equals("SHARU") && password == 123) {
             int choice;
             do {
                 System.out.println("1. Add Book\n2. View Issued Books\n3. Logout");
